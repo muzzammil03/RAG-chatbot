@@ -1,0 +1,6 @@
+pypdf
+rank-bm25
+scikit-learn
+numpy
+groq
+python-dotenv
